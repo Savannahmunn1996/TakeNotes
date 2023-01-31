@@ -4,7 +4,7 @@ A note taking application
 
 ## Description
 
-This application is used to take notes and be able to save them for refernce as well as delete notes that you no longer need.
+This application is used to take notes and be able to save them for reference as well as delete notes that you no longer need.
 
 - I was motivated to create this app because I was looking for an efficient way to save reminders.
 - I built this app to add convinience to the lives of others as well as myself.
