@@ -10,11 +10,11 @@ This application is used to take notes and be able to save them for reference as
 - I built this app to add convinience to the lives of others as well as myself.
 - I learned quite a bit about CRUD(create,read,update,delete) while building this application.
 
-## features and Usage
+## Features and Usage
 
 This app has an interactive homepage and notes page. The initial interface is a homepage with a large blue "Get Started" button. Once the button is clicked then the user is able to type in a note title and message and click save. The note is saved on the left-hand side of the screen. Once the note is no longer needed, it can be deleted using the red trash can shaped button.
 
-## deployed link
+## Deployed link
 
 https://dashboard.heroku.com/apps/note-taker232
 
