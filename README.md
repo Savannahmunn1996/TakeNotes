@@ -2,6 +2,20 @@
 
 A note taking application
 
+## Description
+
+This application is used to take notes and be able to save them for refernce as well as delete notes that you no longer need.
+
+- I was motivated to create this app because I was looking for an efficient way to save reminders.
+- I built this app to add convinience to the lives of others as well as myself.
+- I learned quite a bit about CRUD(create,read,update,delete) while building this application.
+
+## features and Usage
+
+This app has an interactive homepage and notes page. The initial interface is a homepage with a large blue "Get Started" button. Once the button is clicked then the user is able to type in a note title and message and click save. The note is saved on the left-hand side of the screen. Once the note is no longer needed, it can be deleted using the red trash can shaped button.
+
+## User Story
+
 GIVEN a note-taking application
 WHEN I open the Note Taker
 THEN I am presented with a landing page with a link to a notes page
