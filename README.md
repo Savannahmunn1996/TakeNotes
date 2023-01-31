@@ -14,6 +14,10 @@ This application is used to take notes and be able to save them for refernce as 
 
 This app has an interactive homepage and notes page. The initial interface is a homepage with a large blue "Get Started" button. Once the button is clicked then the user is able to type in a note title and message and click save. The note is saved on the left-hand side of the screen. Once the note is no longer needed, it can be deleted using the red trash can shaped button.
 
+## deployed link
+
+https://dashboard.heroku.com/apps/note-taker232
+
 ## User Story
 
 GIVEN a note-taking application
